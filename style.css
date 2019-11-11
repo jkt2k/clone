@@ -1,0 +1,39 @@
+.navbar {
+    background-color:black;
+    padding: 1rem;
+}
+.nav-link {
+    color: white;
+}
+.nav-link:hover{
+    color:red;
+}
+body{
+    background-color:black;
+}
+.btn{
+    background-color:white;
+    color:black;
+}
+.btn:hover{
+    color:red;
+}
+.jumbotron{
+    background-image: url(MidHP_01F.jpg);
+    background-color:black;
+    background-size: cover;
+}
+p{
+    color:white;
+}
+h1{
+    color:white;
+}
+.carousel{
+    width:100%;
+}
+div img{
+    object-fit:cover;
+    height:600px !important;
+    width:100%;
+}
